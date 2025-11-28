@@ -72,3 +72,21 @@
 // MyProduct
 
 //
+
+// let class = "chandan"
+
+// let if = "fjhfjhg"
+
+// let var const
+
+// let user123
+
+//    let a
+
+// let score = 100; //  4bytes, 1byte - 8bits - 32bits
+// let new_score = 1000; // 4bytes
+
+// let userName = "rakesh"; //  1char = 2bytes- 16bits // 12bytes
+// let user2Name = "ram2sam"; // 14bytes
+
+// stack , heap
